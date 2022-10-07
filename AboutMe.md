@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CioJay
+- 👀 I’m interested in coding and video games
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on Unity projects
+- 📫 How to reach me with e-mail
